@@ -1,0 +1,6 @@
+# Ignore sensitive files
+*token*
+*credential*
+*key*
+.env
+build_repo.py
