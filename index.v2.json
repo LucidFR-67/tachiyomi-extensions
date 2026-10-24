@@ -1,0 +1,894 @@
+{
+  "name": "Lucid Master Extension Repo",
+  "badgeLabel": "Lucid",
+  "signingKey": "",
+  "contact": {
+    "website": "https://github.com/LucidFR-67/tachiyomi-extensions",
+    "discord": null
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Akuma",
+        "packageName": "eu.kanade.tachiyomi.extension.all.akuma",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.all.akuma.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.all.akuma.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 9,
+        "versionName": "1.4.9",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 1843646695111412994,
+            "name": "Akuma",
+            "language": "all",
+            "homeUrl": "https://akuma.moe"
+          }
+        ]
+      },
+      {
+        "name": "Animenosub",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.animenosub",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.animenosub.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.animenosub.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 16,
+        "versionName": "14.16",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 6722573244246256733,
+            "name": "Animenosub",
+            "language": "en",
+            "homeUrl": "https://animenosub.com"
+          }
+        ]
+      },
+      {
+        "name": "AnimeOnsen",
+        "packageName": "eu.kanade.tachiyomi.animeextension.all.animeonsen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.all.animeonsen.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.all.animeonsen.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 9,
+        "versionName": "14.9",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 8542735178285060053,
+            "name": "AnimeOnsen",
+            "language": "all",
+            "homeUrl": "https://animeonsen.xyz"
+          }
+        ]
+      },
+      {
+        "name": "AnimePahe",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.animepahe",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.animepahe.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.animepahe.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 38,
+        "versionName": "14.38",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 9163675745699695675,
+            "name": "AnimePahe",
+            "language": "en",
+            "homeUrl": "https://animepahe.ru"
+          }
+        ]
+      },
+      {
+        "name": "AniPlay",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.aniplay",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.aniplay.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.aniplay.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 24,
+        "versionName": "14.24",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 7191632168234158173,
+            "name": "AniPlay",
+            "language": "en",
+            "homeUrl": "https://aniplay.org"
+          }
+        ]
+      },
+      {
+        "name": "AniWatchtv",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.aniwatch",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.aniwatch.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.aniwatch.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 12,
+        "versionName": "14.12",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 2153621040578732995,
+            "name": "AniWatchtv",
+            "language": "en",
+            "homeUrl": "https://aniwatchtv.to"
+          }
+        ]
+      },
+      {
+        "name": "AniZone",
+        "packageName": "eu.kanade.tachiyomi.animeextension.all.anizone",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.all.anizone.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.all.anizone.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 10,
+        "versionName": "14.10",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 954848840440936266,
+            "name": "AniZone",
+            "language": "all",
+            "homeUrl": "https://anizone.to"
+          }
+        ]
+      },
+      {
+        "name": "Asura Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.asurascans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.asurascans.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.asurascans.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 60,
+        "versionName": "1.4.60",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 6247824327199706550,
+            "name": "Asura Scans",
+            "language": "en",
+            "homeUrl": "https://asuracomic.net"
+          }
+        ]
+      },
+      {
+        "name": "Atsumaru",
+        "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.atsumaru.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.atsumaru.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106024,
+        "versionName": "1.6.24",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 6354986011843597399,
+            "name": "Atsumaru",
+            "language": "en",
+            "homeUrl": "https://atsumaru.net"
+          }
+        ]
+      },
+      {
+        "name": "Comix",
+        "packageName": "eu.kanade.tachiyomi.extension.en.comix",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.comix.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.comix.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 32,
+        "versionName": "1.4.32",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 7537715367149829912,
+            "name": "Comix",
+            "language": "en",
+            "homeUrl": "https://comix.net"
+          }
+        ]
+      },
+      {
+        "name": "DonghuaStream",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.donghuastream",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.donghuastream.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.donghuastream.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 13,
+        "versionName": "14.13",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 5750955808412743706,
+            "name": "DonghuaStream",
+            "language": "en",
+            "homeUrl": "https://donghuastream.org"
+          }
+        ]
+      },
+      {
+        "name": "E-Hentai",
+        "packageName": "eu.kanade.tachiyomi.extension.en.ehentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.ehentai.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.ehentai.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 6,
+        "versionName": "1.4.6",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 57122881048805941,
+            "name": "E-Hentai",
+            "language": "en",
+            "homeUrl": "https://e-hentai.org"
+          }
+        ]
+      },
+      {
+        "name": "Flame Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.en.flamecomics",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.flamecomics.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.flamecomics.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 48,
+        "versionName": "1.4.48",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 4803549722186048656,
+            "name": "Flame Comics",
+            "language": "en",
+            "homeUrl": "https://flamecomics.me"
+          }
+        ]
+      },
+      {
+        "name": "FlameScans.lol",
+        "packageName": "eu.kanade.tachiyomi.extension.en.plutoscans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.plutoscans.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.plutoscans.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 51,
+        "versionName": "1.4.51",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 1914060397688748118,
+            "name": "FlameScans.lol",
+            "language": "en",
+            "homeUrl": "https://plutoscans.com"
+          }
+        ]
+      },
+      {
+        "name": "hanime.tv",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.hanime",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.hanime.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.hanime.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 18,
+        "versionName": "14.18",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 2649711761599612719,
+            "name": "hanime.tv",
+            "language": "en",
+            "homeUrl": "https://hanime.tv"
+          }
+        ]
+      },
+      {
+        "name": "Hentai2Read",
+        "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.hentai2read.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.hentai2read.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 18,
+        "versionName": "1.4.18",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 8314925449740051373,
+            "name": "Hentai2Read",
+            "language": "en",
+            "homeUrl": "https://hentai2read.com"
+          }
+        ]
+      },
+      {
+        "name": "HentaiEra",
+        "packageName": "eu.kanade.tachiyomi.extension.all.hentaiera",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.all.hentaiera.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.all.hentaiera.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 11,
+        "versionName": "1.4.11",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 5238899243957092391,
+            "name": "HentaiEra",
+            "language": "all",
+            "homeUrl": "https://hentaiera.com"
+          }
+        ]
+      },
+      {
+        "name": "HentaiMama",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.hentaimama",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.hentaimama.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.hentaimama.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 7,
+        "versionName": "14.7",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 8058423919997530503,
+            "name": "HentaiMama",
+            "language": "en",
+            "homeUrl": "https://hentaimama.io"
+          }
+        ]
+      },
+      {
+        "name": "HiAnime",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.zoro",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.zoro.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.zoro.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 64,
+        "versionName": "14.64",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 4844379015355361939,
+            "name": "HiAnime",
+            "language": "en",
+            "homeUrl": "https://zoroxtv.com"
+          }
+        ]
+      },
+      {
+        "name": "HiAnimeWs (Unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.hianimews",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.hianimews.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.hianimews.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 4,
+        "versionName": "14.4",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 1730316105832745978,
+            "name": "HiAnimeWs (Unoriginal)",
+            "language": "en",
+            "homeUrl": "https://hianime.to"
+          }
+        ]
+      },
+      {
+        "name": "Hstream",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.hstream",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.hstream.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.hstream.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 9,
+        "versionName": "14.9",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 5688255194676032300,
+            "name": "Hstream",
+            "language": "en",
+            "homeUrl": "https://hstream.moe"
+          }
+        ]
+      },
+      {
+        "name": "IMHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.all.imhentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.all.imhentai.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.all.imhentai.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 25,
+        "versionName": "1.4.25",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 3395462671769287908,
+            "name": "IMHentai",
+            "language": "all",
+            "homeUrl": "https://imhentai.xxx"
+          }
+        ]
+      },
+      {
+        "name": "Jav Guru",
+        "packageName": "eu.kanade.tachiyomi.animeextension.all.javguru",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.all.javguru.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.all.javguru.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 28,
+        "versionName": "14.28",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 8546813608934181796,
+            "name": "Jav Guru",
+            "language": "all",
+            "homeUrl": "https://javguru.com"
+          }
+        ]
+      },
+      {
+        "name": "JavGG",
+        "packageName": "eu.kanade.tachiyomi.animeextension.all.javgg",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.all.javgg.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.all.javgg.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 12,
+        "versionName": "14.12",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 3378993382379910095,
+            "name": "JavGG",
+            "language": "all",
+            "homeUrl": "https://javgg.net"
+          }
+        ]
+      },
+      {
+        "name": "KissAnime",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.kissanime",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.kissanime.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.kissanime.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 14,
+        "versionName": "14.14",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 4309858347760217450,
+            "name": "KissAnime",
+            "language": "en",
+            "homeUrl": "https://kissanime.com.ru"
+          }
+        ]
+      },
+      {
+        "name": "KissKH",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.kisskh",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.kisskh.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.kisskh.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 5,
+        "versionName": "14.5",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 2434089544252410046,
+            "name": "KissKH",
+            "language": "en",
+            "homeUrl": "https://kisskh.co"
+          }
+        ]
+      },
+      {
+        "name": "Luna Toons",
+        "packageName": "eu.kanade.tachiyomi.extension.en.lunatoons",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.lunatoons.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.lunatoons.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 18,
+        "versionName": "1.4.18",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 1950516905235913490,
+            "name": "Luna Toons",
+            "language": "en",
+            "homeUrl": "https://lunatoons.com"
+          }
+        ]
+      },
+      {
+        "name": "Lunar Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.all.lunaranime.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.all.lunaranime.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 6,
+        "versionName": "1.4.6",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 5813468393870703615,
+            "name": "Lunar Manga",
+            "language": "all",
+            "homeUrl": "https://lunaranime.ru"
+          }
+        ]
+      },
+      {
+        "name": "MangaDex",
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.all.mangadex.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.all.mangadex.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 210,
+        "versionName": "1.4.210",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 2499283573021239926,
+            "name": "MangaDex",
+            "language": "all",
+            "homeUrl": "https://mangadex.org"
+          }
+        ]
+      },
+      {
+        "name": "Manhwa Toon",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhwatoon",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.manhwatoon.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.manhwatoon.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 51,
+        "versionName": "1.4.51",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 3590279382085161370,
+            "name": "Manhwa Toon",
+            "language": "en",
+            "homeUrl": "https://manhwatoon.com"
+          }
+        ]
+      },
+      {
+        "name": "Manhwa18",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhwa18",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.manhwa18.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.manhwa18.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 13,
+        "versionName": "1.4.13",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 28198508135984457,
+            "name": "Manhwa18",
+            "language": "en",
+            "homeUrl": "https://manhwa18.com"
+          }
+        ]
+      },
+      {
+        "name": "Manhwa18.cc",
+        "packageName": "eu.kanade.tachiyomi.extension.all.manhwa18cc",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.all.manhwa18cc.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.all.manhwa18cc.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106064,
+        "versionName": "1.6.64",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 993336618407081332,
+            "name": "Manhwa18.cc",
+            "language": "all",
+            "homeUrl": "https://manhwa18.cc"
+          }
+        ]
+      },
+      {
+        "name": "ManhwaHub",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhwahub",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.manhwahub.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.manhwahub.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 5,
+        "versionName": "1.4.5",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 1620136505388614489,
+            "name": "ManhwaHub",
+            "language": "en",
+            "homeUrl": "https://manhwahub.net"
+          }
+        ]
+      },
+      {
+        "name": "MissAV",
+        "packageName": "eu.kanade.tachiyomi.animeextension.all.missav",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.all.missav.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.all.missav.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 16,
+        "versionName": "14.16",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 168969881246615628,
+            "name": "MissAV",
+            "language": "all",
+            "homeUrl": "https://missav.com"
+          }
+        ]
+      },
+      {
+        "name": "nHentai.com (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.all.nhentaicom",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.all.nhentaicom.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.all.nhentaicom.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106000,
+        "versionName": "1.6.0",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 6548566127610529227,
+            "name": "nHentai.com (unoriginal)",
+            "language": "all",
+            "homeUrl": "https://nhentai.com"
+          }
+        ]
+      },
+      {
+        "name": "NHentai.xxx",
+        "packageName": "eu.kanade.tachiyomi.extension.all.nhentaixxx",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.all.nhentaixxx.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.all.nhentaixxx.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 10,
+        "versionName": "1.4.10",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 2384499981488817067,
+            "name": "NHentai.xxx",
+            "language": "all",
+            "homeUrl": "https://nhentai.xxx"
+          }
+        ]
+      },
+      {
+        "name": "Niadd",
+        "packageName": "eu.kanade.tachiyomi.extension.all.niadd",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.all.niadd.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.all.niadd.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 2,
+        "versionName": "1.4.2",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 8526932488893200575,
+            "name": "Niadd",
+            "language": "all",
+            "homeUrl": "https://www.niadd.com"
+          }
+        ]
+      },
+      {
+        "name": "NineManga",
+        "packageName": "eu.kanade.tachiyomi.extension.all.ninemanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.all.ninemanga.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.all.ninemanga.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 26,
+        "versionName": "1.4.26",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 962683807159067018,
+            "name": "NineManga",
+            "language": "all",
+            "homeUrl": "https://ninemanga.com"
+          }
+        ]
+      },
+      {
+        "name": "Omega Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.omegascans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.omegascans.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.omegascans.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 48,
+        "versionName": "1.4.48",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 1437071111760677496,
+            "name": "Omega Scans",
+            "language": "en",
+            "homeUrl": "https://omegascans.org"
+          }
+        ]
+      },
+      {
+        "name": "Stremio",
+        "packageName": "eu.kanade.tachiyomi.animeextension.all.stremio",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.all.stremio.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.all.stremio.png"
+        },
+        "extensionLib": "16",
+        "versionCode": 10,
+        "versionName": "16.10",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 8425771932667600381,
+            "name": "Stremio",
+            "language": "all",
+            "homeUrl": "https://web.stremio.com"
+          }
+        ]
+      },
+      {
+        "name": "The Blank",
+        "packageName": "eu.kanade.tachiyomi.extension.en.theblank",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.theblank.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.theblank.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 54,
+        "versionName": "1.4.54",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 4889133906331564975,
+            "name": "The Blank",
+            "language": "en",
+            "homeUrl": "https://theblank.net"
+          }
+        ]
+      },
+      {
+        "name": "ToonGod",
+        "packageName": "eu.kanade.tachiyomi.extension.en.toongod",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.toongod.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.toongod.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 55,
+        "versionName": "1.4.55",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 2054192099319007885,
+            "name": "ToonGod",
+            "language": "en",
+            "homeUrl": "https://toongod.org"
+          }
+        ]
+      },
+      {
+        "name": "Vortex Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.arvenscans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.arvenscans.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.arvenscans.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106089,
+        "versionName": "1.6.89",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 2559570015828016575,
+            "name": "Vortex Scans",
+            "language": "en",
+            "homeUrl": "https://arvenscans.com"
+          }
+        ]
+      },
+      {
+        "name": "Wcofun",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.wcofun",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.animeextension.en.wcofun.apk",
+          "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.animeextension.en.wcofun.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 21,
+        "versionName": "14.21",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 1677488626877212634,
+            "name": "Wcofun",
+            "language": "en",
+            "homeUrl": "https://www.wcofun.tv"
+          }
+        ]
+      }
+    ]
+  },
+  "extensionListUrl": null
+}

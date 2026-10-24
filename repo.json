@@ -1,4 +1,9 @@
 {
-  "name": "Lucid Master Extension Repo",
-  "website": "https://github.com/LucidFR-67/tachiyomi-extensions"
+  "index_v2": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/index.v2.json",
+  "meta": {
+    "name": "Lucid Master Extension Repo",
+    "shortName": "Lucid",
+    "website": "https://github.com/LucidFR-67/tachiyomi-extensions",
+    "signingKeyFingerprint": ""
+  }
 }
