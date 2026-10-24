@@ -191,8 +191,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.en.ehentai",
     "apk": "eu.kanade.tachiyomi.extension.en.ehentai.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
