@@ -236,8 +236,8 @@
           "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.ehentai.png"
         },
         "extensionLib": "1.4",
-        "versionCode": 6,
-        "versionName": "1.4.6",
+        "versionCode": 7,
+        "versionName": "1.4.7",
         "contentWarning": "NSFW",
         "sources": [
           {
