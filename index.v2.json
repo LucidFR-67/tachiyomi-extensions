@@ -235,9 +235,9 @@
           "apkUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/apk/eu.kanade.tachiyomi.extension.en.ehentai.apk",
           "iconUrl": "https://raw.githubusercontent.com/LucidFR-67/tachiyomi-extensions/main/icon/eu.kanade.tachiyomi.extension.en.ehentai.png"
         },
-        "extensionLib": "1.4",
-        "versionCode": 9,
-        "versionName": "1.4.9",
+        "extensionLib": "1.5",
+        "versionCode": 10,
+        "versionName": "1.5.0",
         "contentWarning": "NSFW",
         "sources": [
           {
