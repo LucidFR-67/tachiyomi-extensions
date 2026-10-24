@@ -4,3 +4,4 @@
 *key*
 .env
 build_repo.py
+*.idsig
